@@ -42,8 +42,6 @@ The [Playground](https://artisjs.netlify.app/playground/) is an online code edit
 
 [**Launch Playground**](https://artisjs.netlify.app/playground/) now!
 
-![image](https://artisjs.netlify.app/playground.png)
-
 - Press **F1** to open Palette menu to access advanced options.
 - Press **Reset** button to delete data stored in the browser.
 
