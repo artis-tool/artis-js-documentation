@@ -30,12 +30,6 @@
 $ npm i artis --save-dev
 ```
 
-Create an empty template to learn how to use `Artis.js` with CLI (command-line interface). Without installing anything to setup a new project. After the installation, follow the on-screen instructions and you are done setup.
-
-```bash
-$ npx artis-cli@latest my-new-artis-project
-```
-
 ## Playground
 
 The [Playground](https://artisjs.netlify.app/playground/) is an online code editor, you can use it for testing or just playing around with `Artis.js` on the go. _If you don't find the **CLI** is more convenient._
