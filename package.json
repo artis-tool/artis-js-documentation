@@ -1,0 +1,22 @@
+{
+  "name": "artis-js-documentation",
+  "version": "1.0.0",
+  "description": "The official Artis.JS Documentation",
+  "url": "https://github.com/artis-tool/artis-js-documentation/issues",
+  "author": "Louis Low <iamlouislow@gmail.com> (https://github.com/artis-tool/artis-js-documentation.js)",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs && npm run playground",
+    "docs:serve": "vitepress serve docs",
+    "playground": "cp -r ./playground ./docs/.vitepress/dist/"
+  },
+  "repository": {
+    "url": "git+https://github.com/artis-tool/artis-js-documentation.git",
+    "type": "git"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.11",
+    "vue": "^3.2.37"
+  }
+}
