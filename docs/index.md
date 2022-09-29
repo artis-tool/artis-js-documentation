@@ -14,7 +14,7 @@
 
 **Artis** is a tiny [**1.4 kilobytes**](https://bundlephobia.com/package/artis@1.0.2) Virtual CSS javascript library inspired from Virtual DOM. Use the [custom syntax](#api-introduction) in the component styling without actually writing the CSS code, and never increase your project file size by adding CSS codes.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0bc0b517-0683-4ddc-a41c-ad5ecb845701/deploy-status)](https://app.netlify.com/sites/artisjs/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2acf9480-5e02-4dc7-bb61-e2c8dc6255ff/deploy-status)](https://app.netlify.com/sites/artisjs/deploys)
 
 ### Benefits
 
