@@ -41,7 +41,7 @@ The [Playground](https://artisjs.netlify.app/playground/) is an online code edit
 
 ## API Introduction
 
-`Artis.js` offers very minimum learning curve to use the library, set the `design()` to **true** to enable CSS styling without writing CSS and no CSS payload. Up to 80+ different type of useful utilities and each utility has countless modifier that allows you to fine-tune the utility more precisely.
+`Artis.js` offers a very minimum learning curve to use the library, set the `design()` to **true** to enable CSS styling without writing CSS and no CSS payload. Up to 80+ different type of useful utilities and each utility has countless modifier that allows you to fine-tune the utility more precisely.
 
 The Artis Syntax is look like below,
 
