@@ -255,6 +255,12 @@ That's all you need to learn to use `Artis.js`. Simply minimalist.
 |:-|:-|:-|
 | filter | _style.filter_ | [Filter](https://www.w3schools.com/jsref/prop_style_filter.asp) |
 
+## API: Transforms
+
+| Utility | DOM Style Objects | Usage |
+|:-|:-|:-|
+| transform | _style.transform_ | [Reference](https://www.w3schools.com/jsref/prop_style_transform.asp) |
+
 ## API: Transitions
 
 | Utility | DOM Style Objects | Usage |
