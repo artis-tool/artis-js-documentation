@@ -90,7 +90,7 @@ class MainComponent extends HTMLElement {
       </div>
     `;
     this.appendChild(tmpl.content.cloneNode(true));
-    design(true); // init artis.js
+    window.onload = () => design(true); // init artis.js
   }
 }
 customElements.define("main-component", MainComponent);
