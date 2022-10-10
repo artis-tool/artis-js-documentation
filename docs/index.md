@@ -39,6 +39,8 @@ The [Playground](https://artisjs.netlify.app/playground/) is an online code edit
 - Press **F1** to open Palette menu to access advanced options.
 - Press **Reset** button to delete data stored in the browser.
 
+![image](https://artisjs.netlify.app/playground.png)
+
 ## API Introduction
 
 `Artis.js` offers a very minimum learning curve to use the library, set the `design()` to **true** to enable CSS styling without writing CSS and no CSS payload. Up to 80+ different type of useful utilities and each utility has countless modifier that allows you to fine-tune the utility more precisely.
