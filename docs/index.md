@@ -32,7 +32,7 @@ $ npm i artis --save-dev
 
 ## Playground
 
-The [Playground](https://artisjs.netlify.app/playground/) is an online code editor, you can use it for testing or just playing around with `Artis.js` on the go. _If you don't find the **CLI** is more convenient._
+The [Playground](https://artisjs.netlify.app/playground/) is an online code editor, you can use it for testing or just playing around with `Artis.js` on the go.
 
 [**Launch Playground**](https://artisjs.netlify.app/playground/) now!
 
