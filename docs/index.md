@@ -211,7 +211,7 @@ That's all you need to learn to use `Artis.js`. Simply minimalist.
 | flexBasis | _style.flexBasis_ | [Reference](https://www.w3schools.com/jsref/prop_style_flexbasis.asp) |
 | flexDefault | _style.flex_ | [Reference](https://www.w3schools.com/jsref/prop_style_flex.asp) |
 | flexDirection | _style.flexDirection_ | [Reference](https://www.w3schools.com/jsref/prop_style_flexdirection.asp) |
-| flexGap | _style.flexGap_ | [Reference](https://www.w3schools.com/cssref/css3_pr_gap.asp) |
+| flexGap | _style.gap_ | [Reference](https://www.w3schools.com/cssref/css3_pr_gap.asp) |
 | flexGrow | _style.flexGrow_ | [Reference](https://www.w3schools.com/jsref/prop_style_flexgrow.asp) |
 | flexShrink | _style.flexShrink_ | [Reference](https://www.w3schools.com/jsref/prop_style_flexshrink.asp) |
 | flexWrap | _style.flexWrap_ | [Reference](https://www.w3schools.com/jsref/prop_style_flexwrap.asp) |
