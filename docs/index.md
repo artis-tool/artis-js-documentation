@@ -124,7 +124,7 @@ import {
   centerCol,
   centerRow,
   paddingWide
-} from "./styler";
+} from "./style";
 ```
 
 That's all you need to learn to use `Artis.js`. Simply minimalist.
